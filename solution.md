@@ -2,17 +2,17 @@
 
 ## Solution
 
-Call the two envelopes A and B. There are four scenarios possible:
+Call the two envelopes A and B. There are four scenarios, each of which can have A be either larger or smaller than B.
 
-Choose A first, then switch to B;
+Choose A first, B has the larger value, 2A
 
-Choose A first, then stay with A;
+Choose A first, B has the smaller value, A/2.
 
-Choose B first, then switch to A; 
+Choose B first, B has the larger value, 2A.
 
-Choose B first, then stay with B.
+Choose B first, B has the smaller value, A/2.
 
-For each scenario, it's equally likely that A contains the larger value or B does. Let's list these out in a table.
+Let's list these out in a table.
 
 | Scenario          | Value of A | Value of B | Value if you stay | Value if you switch |
 |-------------------|------------|------------|-------------------|---------------------|
