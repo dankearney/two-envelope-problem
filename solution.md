@@ -2,7 +2,7 @@
 
 ## Solution
 
-Call the two envelopes A and B. There are four scenarios, each of which can have A be either larger or smaller than B.
+Call the two envelopes A and B. There are four scenarios:
 
 Choose A first, B has the larger value, 2A
 
